@@ -1,0 +1,14 @@
+{
+  "name": "play-guitar",
+  "version": "0.0.1",
+  "repository": "https://github.com/hugojing/play-guitar",
+  "author": "hugojing",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "吉他弹唱标准教程",
+  "author": "Luei",
+  "language": "zh-hans",
+  "structure" : {
+    "readme": "intro.md"
+  }
+}
