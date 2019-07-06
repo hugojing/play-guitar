@@ -8,5 +8,9 @@
     * [1.4 旋律](chapter1/section1.4.md)
     * [1.5 节奏与旋律在吉他谱上的应用](chapter1/section1.5.md)
     * [1.6 练习](chapter1/section1.6.md)
-* [2 准备中…](chapter2/README.md)
-
+* [2 和声、调性与吉他、吉他谱](chapter2/README.md)
+    * [2.1 和声](chapter2/section2.1.md)
+    * [2.2 和弦在吉他、吉他谱上的应用](chapter2/section2.2.md)
+    * [2.3 调性](chapter2/section2.3.md)
+    * [2.4 调性在吉他、吉他谱上的应用](chapter2/section2.4.md)
+    * [2.5 练习](chapter2/section2.5.md)
