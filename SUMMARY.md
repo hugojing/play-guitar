@@ -14,3 +14,8 @@
     * [2.3 调性](chapter2/section2.3.md)
     * [2.4 调性在吉他、吉他谱上的应用](chapter2/section2.4.md)
     * [2.5 练习](chapter2/section2.5.md)
+* [3 吉他弹唱](chapter3/README.md)
+    * [3.1 吉他的基本演奏技巧](chapter3/section3.1.md)
+    * [3.2 人声演唱](chapter3/section3.2.md)
+    * [3.3 练习 1](chapter3/section3.3.md)
+    * [3.4 练习 2](chapter3/section3.4.md)
