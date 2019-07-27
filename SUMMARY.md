@@ -19,3 +19,8 @@
     * [3.2 人声演唱](chapter3/section3.2.md)
     * [3.3 练习 1](chapter3/section3.3.md)
     * [3.4 练习 2](chapter3/section3.4.md)
+* [4 吉他弹唱编配](chapter4/README.md)
+    * [4.1 万能和声进行](chapter4/section4.1.md)
+    * [4.2 编配和声进行](chapter4/section4.2.md)
+    * [4.3 各种节奏型的使用](chapter4/section4.3.md)
+    * [4.4 练习](chapter4/section4.4.md)
