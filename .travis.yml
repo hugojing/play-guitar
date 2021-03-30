@@ -1,0 +1,20 @@
+language: node_js
+node_js:
+  - v10
+cache: yarn
+env:
+  global:
+  - GITHUB_REF: github.com/hugojing/play-guitar.git
+branches:
+  only:
+  - master
+script: yarn build
+after_script:
+  - cd _book
+  - git init
+  - git config user.name "hugojing"
+  - git config user.email "toloric@163.com"
+  - git add -A
+  - git commit -m "deploy"
+  - git push -f -q "https://${GITHUB_TOKEN}@${GITHUB_REF}" master:gh-pages
+  - cd -
